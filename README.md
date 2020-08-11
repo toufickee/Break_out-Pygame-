@@ -9,3 +9,5 @@ In this game the knowledge are used.
 3)Class
 
 4)Function
+
+5)Conditional Logic
